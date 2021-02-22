@@ -1,3 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/out/
+/.idea/
+/src/Program2.iml
